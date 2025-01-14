@@ -5,7 +5,7 @@
     "default_layout": {
       "name": "default_layout",
       "layout": [
-        // Left Half - 4 rows of 6 keys
+        
         { "row": 0, "col":  0, "x":  0, "y": 0 },
         { "row": 0, "col":  1, "x":  1, "y": 0 },
         { "row": 0, "col":  2, "x":  2, "y": 0 },
@@ -34,11 +34,11 @@
         { "row": 3, "col":  4, "x":  4, "y": 3 },
         { "row": 3, "col":  5, "x":  5, "y": 3 },
 
-        // Centered Row - 2 keys for each half
+       
         { "row": 4, "col":  1, "x":  1, "y": 4 },
         { "row": 4, "col":  2, "x":  2, "y": 4 },
 
-        // Thumb Cluster - 3 rows of 2 keys for left half
+        
         { "row": 5, "col":  0, "x":  0, "y": 5 },
         { "row": 5, "col":  1, "x":  1, "y": 5 },
         { "row": 6, "col":  0, "x":  0, "y": 6 },
@@ -46,7 +46,7 @@
         { "row": 7, "col":  0, "x":  0, "y": 7 },
         { "row": 7, "col":  1, "x":  1, "y": 7 },
 
-        // Right Half - 4 rows of 6 keys
+        
         { "row": 0, "col":  8, "x":  8, "y": 0 },
         { "row": 0, "col":  9, "x":  9, "y": 0 },
         { "row": 0, "col": 10, "x": 10, "y": 0 },
@@ -75,11 +75,11 @@
         { "row": 3, "col": 12, "x": 12, "y": 3 },
         { "row": 3, "col": 13, "x": 13, "y": 3 },
 
-        // Centered Row - 2 keys for right half
+        
         { "row": 4, "col": 11, "x": 11, "y": 4 },
         { "row": 4, "col": 12, "x": 12, "y": 4 },
 
-        // Thumb Cluster - 3 rows of 2 keys for right half
+        
         { "row": 5, "col": 12, "x": 12, "y": 5 },
         { "row": 5, "col": 13, "x": 13, "y": 5 },
         { "row": 6, "col": 12, "x": 12, "y": 6 },
