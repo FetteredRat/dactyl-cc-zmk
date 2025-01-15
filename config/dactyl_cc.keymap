@@ -21,7 +21,7 @@
 
         bt {
             bindings = <&mo BLUETOOTH_LAYER>;
-            key-positions = <47 36>;
+            key-positions = <1, 2>;
         };
     };
 
